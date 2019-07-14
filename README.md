@@ -2,5 +2,5 @@
 
 
 <h4>Screenshots</h4>
-<img src="/src/assets/tela-home.png" style="width: 300px">  <img src="/src/assets/cart-full.png" style="width: 300px">
+<img src="/src/assets/tela-home.png" width="300">  <img src="/src/assets/cart-full.png" width="300">
 
