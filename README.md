@@ -1,5 +1,5 @@
 # <h2>RocketShoes in React-Native</h2>
 
-[Alt Text](https://ibb.co/YhxDMQM)
+[Home](https://ibb.co/3TfkBw5) || [Carrinho](https://ibb.co/YhxDMQM)
 
-[Alt Text](https://ibb.co/3TfkBw5)
+
