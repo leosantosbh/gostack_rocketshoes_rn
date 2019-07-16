@@ -1,4 +1,4 @@
-# <h2>RocketShoes in React-Native</h2>
+# <h2>RocketShoes in React-Native + React Redux</h2>
 
 
 <h4>Screenshots</h4>
